@@ -1,4 +1,11 @@
 {
+    "countess" : {
+        "title" : "億進寢具生活館",
+        "homepage" : "http://www.countess.com.tw/",
+        "shop" : "http://www.countess.com.tw/",
+        "description" : "",
+        "tags" : ["寢具","床包","被套","枕頭","棉被"]
+    },
     "lovingfamily" : {
         "title" : "戀家小舖",
         "homepage" : "https://www.lovingfamily.com.tw/",
@@ -21,16 +28,5 @@
         "tags" : ["不鏽鋼","保溫杯","保溫瓶","鍋子"]
     },
 
-
-
-
-
-
-    
-    
-    
-    
-    "z" : {
-        
-    }
+    "z" : {}
 }
