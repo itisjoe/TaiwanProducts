@@ -1,0 +1,55 @@
+body {
+    font-size: 20px;
+}
+
+button {
+    margin: 3px;
+}
+
+.tags-container {
+    padding-bottom: 10px;
+}
+
+.item-info {
+    font-size: 36px;
+}
+
+.item-title {
+    font-size: 24px;
+}
+
+.item-description, #site-links a span {
+    font-size:24px;
+}
+
+.item-info {
+    float:right;
+}
+
+.item-tags span {
+    margin: 3px;
+}
+
+#site-links a, #copyright a, .item-title a {
+    text-decoration: none;
+    color:#333;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 50px;
+  background-color: #fff;
+}
