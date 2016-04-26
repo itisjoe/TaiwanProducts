@@ -13,8 +13,8 @@ $(function(){
         
         $('button').addClass("btn btn-default btn-lg");
         $('.item-tags span').addClass("label label-info");
-        
-        $('[data-toggle="tooltip"]').tooltip();
+
+        $('[data-toggle="tooltip"]').tooltipster({trigger:"click",position:"left"});
     }
 
     $.ajax({
