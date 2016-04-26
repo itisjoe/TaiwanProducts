@@ -6,12 +6,33 @@
         "description" : "",
         "tags" : ["毛巾","浴巾","浴袍","有機棉"]
     },
+    "cej" : {
+        "title" : "吸易潔",
+        "homepage" : "http://www.cej.com.tw/",
+        "shop" : "",
+        "description" : "",
+        "tags" : ["毛巾","浴巾","浴袍","腳踏墊"]
+    },
+    "championtowel" : {
+        "title" : "冠軍毛巾",
+        "homepage" : "http://championtowel.com.tw/",
+        "shop" : "",
+        "description" : "",
+        "tags" : ["毛巾","浴巾","浴袍","枕巾"]
+    },
     "countess" : {
         "title" : "億進寢具生活館",
         "homepage" : "http://www.countess.com.tw/",
         "shop" : "http://www.countess.com.tw/",
         "description" : "",
         "tags" : ["寢具","床包","被套","枕頭","棉被"]
+    },
+    "keyway" : {
+        "title" : "聯府塑膠",
+        "homepage" : "https://www.facebook.com/%E8%81%AF%E5%BA%9C%E5%A1%91%E8%86%A0%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8-722783671111029",
+        "shop" : "",
+        "description" : "",
+        "tags" : ["塑膠製品","收納盒","水壺","整理箱"]
     },
     "lovingfamily" : {
         "title" : "戀家小舖",
@@ -34,6 +55,39 @@
         "description" : "",
         "tags" : ["不鏽鋼","保溫杯","保溫瓶","鍋子"]
     },
+    "sunkung" : {
+        "title" : "三光牌",
+        "homepage" : "http://www.leejoin.com.tw/sunkung/",
+        "shop" : "",
+        "description" : "",
+        "tags" : ["不鏽鋼","保溫杯","保溫瓶","燜燒提鍋","便當盒"]
+    },
+    "toptowel" : {
+        "title" : "好家庭毛巾",
+        "homepage" : "http://www.toptowel.com.tw/",
+        "shop" : "",
+        "description" : "",
+        "tags" : ["毛巾","方巾","運動巾"]
+    },
+    "wochyi" : {
+        "title" : "多多毛巾",
+        "homepage" : "http://www.wo-chyi.com.tw/",
+        "shop" : "http://www.wo-chyi.com.tw/",
+        "description" : "",
+        "tags" : ["毛巾","方巾","浴巾","浴袍"]
+    },
+    "yishuin" : {
+        "title" : "亞晨",
+        "homepage" : "http://www.yishuin.com.tw/",
+        "shop" : "",
+        "description" : "",
+        "tags" : ["不鏽鋼","置物架","收納架","塑膠製品","收納盒","保鮮盒","便當盒"]
+    },
+
+
+
+
+
 
     "z" : {}
 }
