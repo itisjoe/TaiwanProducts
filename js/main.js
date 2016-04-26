@@ -13,6 +13,8 @@ $(function(){
         
         $('button').addClass("btn btn-default btn-lg");
         $('.item-tags span').addClass("label label-info");
+        
+        $('[data-toggle="tooltip"]').tooltip();
     }
 
     $.ajax({
@@ -32,9 +34,14 @@ $(function(){
                     c += '<a href="'+d.homepage+'"><span aria-hidden="true" class="glyphicon glyphicon-home"></span></a> ';
                     url = d.homepage;
                 }
-                if (d.hasOwnProperty('shop') && d.shop != '') {
-                    c += '<a href="'+d.shop+'"><span aria-hidden="true" class="glyphicon glyphicon-shopping-cart"></span></a> ';
-                    url = d.shop;
+                if (d.hasOwnProperty('shop')) {
+                    if (d.shop != '') {
+                        c += '<a href="'+d.shop+'"><span aria-hidden="true" class="glyphicon glyphicon-shopping-cart"></span></a> ';
+                        url = d.shop;
+                    } else {
+                        c += '<a href="#this" data-toggle="tooltip" data-placement="top" title="無官方購物網站，請在各大購物網站或是所在地附近賣場找找看。">';
+                        c += '<span aria-hidden="true" class="glyphicon glyphicon-info-sign"></span></a> ';                        
+                    }
                 }
                 c += '</div>';
                 c += '<div class="item-title"><a href="'+url+'">'+d.title+'</a></div>';
