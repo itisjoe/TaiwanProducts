@@ -27,6 +27,13 @@
         "description" : "",
         "tags" : ["寢具","床包","被套","枕頭","棉被"]
     },
+    "gomyfood" : {
+        "title" : "賣福食品工坊",
+        "homepage" : "http://www.gomyfood.com/",
+        "shop" : "http://www.gomyfood.com/",
+        "description" : "",
+        "tags" : ["豬肉","香腸","麵茶"]
+    },
     "keyway" : {
         "title" : "聯府塑膠",
         "homepage" : "https://www.facebook.com/722783671111029",
@@ -59,8 +66,15 @@
         "title" : "三光牌",
         "homepage" : "http://www.leejoin.com.tw/sunkung/",
         "shop" : "",
-        "description" : "",
+        "description" : "小蟻布比 BuBee",
         "tags" : ["不鏽鋼","保溫杯","保溫瓶","燜燒提鍋","便當盒"]
+    },
+    "taku" : {
+        "title" : "大古鐵器 TAKU IRONWARE",
+        "homepage" : "http://taku-art.com/",
+        "shop" : "http://taku-art.com/",
+        "description" : "",
+        "tags" : ["鑄鐵鍋","鐵器","鑄鐵壺"]
     },
     "toptowel" : {
         "title" : "好家庭毛巾",
@@ -83,11 +97,14 @@
         "description" : "",
         "tags" : ["不鏽鋼","置物架","收納架","塑膠製品","收納盒","保鮮盒","便當盒"]
     },
-
-
-
-
-
+    "yongxing" : {
+        "title" : "永興農具工廠",
+        "homepage" : "https://www.facebook.com/pages/永興農具工廠/314193462036557",
+        "shop" : "",
+        "address" : "台北市大同區迪化街一段288號",
+        "description" : "<a href=\"http://kakakuksk.pixnet.net/blog/post/314867604\">店家介紹：【台北。迪化街】《永興農具工廠》~老街尋</a>",
+        "tags" : ["鑄鐵鍋","鐵器","刀具","木製品","蒸籠","炊桶","台北市"]
+    },
 
     "z" : {}
 }
