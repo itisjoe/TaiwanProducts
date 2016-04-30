@@ -27,6 +27,13 @@
         "description" : "",
         "tags" : ["寢具","床包","被套","枕頭","棉被"]
     },
+    "dreambed" : {
+        "title" : "悅夢床墊",
+        "homepage" : "https://www.dreambed.tw/",
+        "shop" : "",
+        "description" : "<a href=\"https://www.dreambed.tw/shops\">各門市資訊</a>",
+        "tags" : ["床墊"]
+    },
     "gomyfood" : {
         "title" : "賣福食品工坊",
         "homepage" : "http://www.gomyfood.com/",
