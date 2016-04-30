@@ -43,7 +43,7 @@ $(function(){
                     }
                 }
                 if (d.hasOwnProperty('shop')) {
-                    if (d.shop != '') {
+                    if (d.shop != '' && d.shop != 'more') {
                         c += '<a href="'+d.shop+'"><span aria-hidden="true" class="glyphicon glyphicon-shopping-cart"></span></a> ';
                         url = d.shop;
                     }
