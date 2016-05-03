@@ -27,6 +27,7 @@ $(function(){
         dataType: "json",
         url: "taiwanproducts.json",
         success: function(data) {
+            var count = 0;
             for (var k in data) {
                 var d = data[k];
                 var url = '#this';
@@ -65,8 +66,11 @@ $(function(){
                 c += '<h3 class="item-tags"></h3></td></tr>';
 
                 $('#main_table').append(c);
+                count += 1;
             }
-    
+            
+            $('#count').html(count);
+
             tagsInit();
         }
     });

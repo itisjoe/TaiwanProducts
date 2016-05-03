@@ -34,12 +34,33 @@
         "description" : "<a href=\"https://www.dreambed.tw/shops\">各門市資訊</a>",
         "tags" : ["床墊"]
     },
+    "ecogreen" : {
+        "title" : "郁逹農業科技",
+        "homepage" : "http://www.ecogreen.com.tw/",
+        "shop" : "http://www.ecogreen.com.tw/buy/main.php?cat=477&subcatdiv=477&mt=1",
+        "description" : "",
+        "tags" : ["有機","花草茶"]
+    },
     "gomyfood" : {
         "title" : "賣福食品工坊",
         "homepage" : "http://www.gomyfood.com/",
         "shop" : "http://www.gomyfood.com/",
         "description" : "",
         "tags" : ["豬肉","香腸","麵茶"]
+    },
+    "jingyang" : {
+        "title" : "京揚",
+        "homepage" : "https://www.facebook.com/jingyang55",
+        "shop" : "https://tw.bid.yahoo.com/booth/Y7050624061",
+        "description" : "",
+        "tags" : ["超細纖維","毛巾","拖把","抹布"]
+    },
+    "jusku" : {
+        "title" : "佳斯捷",
+        "homepage" : "http://www.jusku.com.tw/",
+        "shop" : "",
+        "description" : "",
+        "tags" : ["收納盒","水壺","泡茶壺","隨行杯"]
     },
     "keyway" : {
         "title" : "聯府塑膠",
@@ -48,12 +69,33 @@
         "description" : "",
         "tags" : ["塑膠製品","收納盒","水壺","整理箱"]
     },
+    "liangjiang" : {
+        "title" : "良將",
+        "homepage" : "",
+        "shop" : "",
+        "description" : "",
+        "tags" : ["電風扇","工業立扇","掛壁扇"]
+    },
     "lovingfamily" : {
         "title" : "戀家小舖",
         "homepage" : "https://www.lovingfamily.com.tw/",
         "shop" : "https://www.lovingfamily.com.tw/",
         "description" : "",
         "tags" : ["寢具","床包","被套","枕頭","棉被"]
+    },
+    "miofeel" : {
+        "title" : "Miofeel",
+        "homepage" : "",
+        "shop" : "",
+        "description" : "",
+        "tags" : ["女鞋","皮鞋"]
+    },
+    "neogreen" : {
+        "title" : "可立潔",
+        "homepage" : "http://www.neogreen.com.tw",
+        "shop" : "http://www.neogreen.com.tw/products",
+        "description" : "各大賣場也會鋪貨",
+        "tags" : ["清潔用品","去霉去污","地板清潔劑","洗衣精","洗衣粉","洗衣乳"]
     },
     "oliviabedding" : {
         "title" : "OLIVIA 日式簡約風格寢具專賣",
@@ -69,6 +111,27 @@
         "description" : "",
         "tags" : ["不鏽鋼","保溫杯","保溫瓶","鍋子"]
     },
+    "puhu" : {
+        "title" : "彪琥鞋業",
+        "homepage" : "http://www.puhu.com.tw",
+        "shop" : "http://www.puhu.com.tw/onlineShop/index.html",
+        "description" : "",
+        "tags" : ["單車卡鞋","男鞋","女鞋"]
+    },
+    "redennisWoods" : {
+        "title" : "無事之森",
+        "homepage" : "https://www.facebook.com/redennisWoods",
+        "shop" : "more",
+        "description" : "",
+        "tags" : ["果醬"]
+    },
+    "snug" : {
+        "title" : "sNug",
+        "homepage" : "http://www.snug.com.tw/",
+        "shop" : "http://www.snug.com.tw/",
+        "description" : "",
+        "tags" : ["襪子","除臭襪"]
+    },
     "sunkung" : {
         "title" : "三光牌",
         "homepage" : "http://www.leejoin.com.tw/sunkung/",
@@ -83,12 +146,26 @@
         "description" : "",
         "tags" : ["鑄鐵鍋","鐵器","鑄鐵壺"]
     },
+    "tangoluoya" : {
+        "title" : "Tango薰蘿亞專業手工氣墊鞋",
+        "homepage" : "https://www.facebook.com/TangoLuoYa",
+        "shop" : "",
+        "description" : "",
+        "tags" : ["手工氣墊鞋","女鞋","皮鞋"]
+    },
     "toptowel" : {
         "title" : "好家庭毛巾",
         "homepage" : "http://www.toptowel.com.tw/",
         "shop" : "",
         "description" : "",
         "tags" : ["毛巾","方巾","運動巾"]
+    },
+    "udilife" : {
+        "title" : "UdiLife 優の生活大師",
+        "homepage" : "www.udilife.com",
+        "shop" : "",
+        "description" : "",
+        "tags" : ["拖把","洗衣袋","收納架","收納盒","抹布"]
     },
     "wochyi" : {
         "title" : "多多毛巾",
