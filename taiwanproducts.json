@@ -41,6 +41,13 @@
         "description" : "",
         "tags" : ["有機","花草茶"]
     },
+    "fudis" : {
+        "title" : "FUDIS",
+        "homepage" : "",
+        "shop" : "http://www.jjshop.com.tw/mindex.php",
+        "description" : "使用速乾界第一名的cool max科技材質，迅速排汗，遠離汗臭味",
+        "tags" : ["吸濕排汗衫","運動貼身褲"]
+    },
     "gomyfood" : {
         "title" : "賣福食品工坊",
         "homepage" : "http://www.gomyfood.com/",
@@ -75,6 +82,13 @@
         "shop" : "",
         "description" : "",
         "tags" : ["電風扇","工業立扇","掛壁扇"]
+    },
+    "liuido" : {
+        "title" : "劉一刀 手工鞋",
+        "homepage" : "http://www.facebook.com/Liu.i.do",
+        "shop" : "http://www.liu-i-do.com.tw",
+        "description" : "由國寶級製鞋大師劉明龍創立，MIT 台灣製 『工廠直營高級手工皮鞋店』，首間店面創立於1967年 (民國56年)。",
+        "tags" : ["手工鞋","皮鞋","男鞋","女鞋","紳士鞋","牛津鞋","雕花鞋"]
     },
     "lovingfamily" : {
         "title" : "戀家小舖",
