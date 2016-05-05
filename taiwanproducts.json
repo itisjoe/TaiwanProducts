@@ -23,6 +23,14 @@
         "description" : "",
         "tags" : ["毛巾","浴巾","浴袍","枕巾"]
     },
+    "chordandmajor" : {
+        "title" : "Chord&Major調性耳機",
+        "homepage" : "http://tw.chord-m.com/",
+        "shop" : "",
+        "address" : "",
+        "description" : "",
+        "tags" : ["耳機"]
+    },
     "countess" : {
         "title" : "億進寢具生活館",
         "homepage" : "http://www.countess.com.tw/",
@@ -42,7 +50,7 @@
     "ecogreen" : {
         "title" : "郁逹農業科技",
         "homepage" : "http://www.ecogreen.com.tw/",
-        "shop" : "http://www.ecogreen.com.tw/buy/main.php?cat=477&amp;subcatdiv=477&amp;mt=1",
+        "shop" : "http://www.ecogreen.com.tw/buy/main.php?cat=477&subcatdiv=477&mt=1",
         "address" : "",
         "description" : "",
         "tags" : ["有機","花草茶"]
@@ -214,6 +222,14 @@
         "address" : "",
         "description" : "",
         "tags" : ["拖把","洗衣袋","收納架","收納盒","抹布"]
+    },
+    "vsmart" : {
+        "title" : "V-Smart",
+        "homepage" : "http://www.v-smart.com.tw/",
+        "shop" : "http://www.v-smart.com.tw/",
+        "address" : "",
+        "description" : "",
+        "tags" : ["耳機"]
     },
     "wochyi" : {
         "title" : "多多毛巾",
