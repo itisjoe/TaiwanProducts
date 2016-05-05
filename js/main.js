@@ -52,11 +52,11 @@ $(function(){
                 if (d.hasOwnProperty('address')) {
                     if (d.address != '') {
                         c += '<a href="#" class="go_map" title="'+d.address+'"><span aria-hidden="true" class="glyphicon glyphicon-map-marker"></span></a> ';
-                    }
-                } else if (d.hasOwnProperty('shop')) {
-                    if (d.shop == '') {
-                        c += '<a href="#this" data-toggle="tooltip" data-placement="top" title="無官方購物網站，請在各大購物網站或是所在地附近賣場找找看。">';
-                        c += '<span aria-hidden="true" class="glyphicon glyphicon-info-sign"></span></a> ';                        
+                    } else if (d.hasOwnProperty('shop')) {
+                        if (d.shop == '') {
+                            c += '<a href="#this" data-toggle="tooltip" data-placement="top" title="無官方購物網站，請在各大購物網站或是所在地附近賣場找找看。">';
+                            c += '<span aria-hidden="true" class="glyphicon glyphicon-info-sign"></span></a> ';                        
+                        }
                     }
                 }
 
