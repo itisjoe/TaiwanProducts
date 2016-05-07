@@ -1,4 +1,44 @@
 {
+    "aesopshoes" : {
+        "title" : "AESOP",
+        "homepage" : "http://www.aesopshoes.com/",
+        "shop" : "",
+        "address" : "",
+        "description" : "",
+        "tags" : ["女鞋"]
+    },
+    "applenana" : {
+        "title" : "AppleNana 台灣製造手工鞋",
+        "homepage" : "http://www.applenana.com.tw",
+        "shop" : "",
+        "address" : "",
+        "description" : "",
+        "tags" : ["男鞋","女鞋","童鞋","氣墊鞋"]
+    },
+    "arriba" : {
+        "title" : "艾樂跑",
+        "homepage" : "http://www.arriba.com.tw/",
+        "shop" : "",
+        "address" : "",
+        "description" : "",
+        "tags" : ["男鞋","女鞋","帆布鞋"]
+    },
+    "ayersguitar" : {
+        "title" : "Ayers Guitar",
+        "homepage" : "http://www.ayersguitar.com/ch/",
+        "shop" : "",
+        "address" : "",
+        "description" : "",
+        "tags" : ["樂器","吉他"]
+    },
+    "basiner" : {
+        "title" : "basiner",
+        "homepage" : "http://www.basiner.com/",
+        "shop" : "",
+        "address" : "",
+        "description" : "",
+        "tags" : ["樂器","吉他袋"]
+    },
     "besttowel" : {
         "title" : "永鵬 Ma Maison 家飾織品",
         "homepage" : "http://www.best-towel.com.tw/",
@@ -6,6 +46,14 @@
         "address" : "",
         "description" : "",
         "tags" : ["毛巾","浴巾","浴袍","有機棉"]
+    },
+    "brunii" : {
+        "title" : "brunii 簡單穿好鞋",
+        "homepage" : "http://www.brunii.com.tw/",
+        "shop" : "",
+        "address" : "",
+        "description" : "",
+        "tags" : ["樂福鞋","涼鞋","拖鞋","平底鞋"]
     },
     "cej" : {
         "title" : "吸易潔",
@@ -23,6 +71,14 @@
         "description" : "",
         "tags" : ["毛巾","浴巾","浴袍","枕巾"]
     },
+    "chinastrong" : {
+        "title" : "中國強 帆布鞋",
+        "homepage" : "",
+        "shop" : "",
+        "address" : "",
+        "description" : "",
+        "tags" : ["帆布鞋"]
+    },
     "chordandmajor" : {
         "title" : "Chord&Major調性耳機",
         "homepage" : "http://tw.chord-m.com/",
@@ -38,6 +94,46 @@
         "address" : "",
         "description" : "",
         "tags" : ["寢具","床包","被套","枕頭","棉被"]
+    },
+    "daliguitars" : {
+        "title" : "Dali Guitars",
+        "homepage" : "http://www.daliguitars.com",
+        "shop" : "",
+        "address" : "",
+        "description" : "",
+        "tags" : ["樂器","吉他"]
+    },
+    "dayseven" : {
+        "title" : "D7",
+        "homepage" : "http://www.d7.com.tw/",
+        "shop" : "http://shop.d7.com.tw/v2/official",
+        "address" : "",
+        "description" : "",
+        "tags" : ["男鞋","女鞋","牛津鞋","帆船鞋","帆布鞋"]
+    },
+    "denward" : {
+        "title" : "denward",
+        "homepage" : "http://www.denward.tw/",
+        "shop" : "",
+        "address" : "",
+        "description" : "",
+        "tags" : ["牛仔褲"]
+    },
+    "dixon" : {
+        "title" : "Dixon",
+        "homepage" : "http://intl.playdixon.com/",
+        "shop" : "",
+        "address" : "",
+        "description" : "",
+        "tags" : ["鼓","樂器"]
+    },
+    "dkgp" : {
+        "title" : "東客集",
+        "homepage" : "http://www.dkgp.com/",
+        "shop" : "http://www.dkgp.com/dkgp_sites/shops.html",
+        "address" : "",
+        "description" : "",
+        "tags" : ["襪子","圍巾","手套"]
     },
     "dreambed" : {
         "title" : "悅夢床墊",
@@ -55,6 +151,38 @@
         "description" : "",
         "tags" : ["有機","花草茶"]
     },
+    "eminent" : {
+        "title" : "Eminent",
+        "homepage" : "https://eminent.com/",
+        "shop" : "https://tw.eminent.com/?route=product/category",
+        "address" : "",
+        "description" : "",
+        "tags" : ["行李箱","旅行箱"]
+    },
+    "feity" : {
+        "title" : "Feity 創意皮工廠",
+        "homepage" : "https://www.facebook.com/feity.house",
+        "shop" : "",
+        "address" : "",
+        "description" : "",
+        "tags" : ["皮件","皮包","皮夾"]
+    },
+    "finaguitars" : {
+        "title" : "Fina Guitar",
+        "homepage" : "http://finaguitars.com.tw/products/",
+        "shop" : "",
+        "address" : "",
+        "description" : "",
+        "tags" : ["樂器","吉他"]
+    },
+    "frost" : {
+        "title" : "冰點空調",
+        "homepage" : "http://www.frost.com.tw/",
+        "shop" : "",
+        "address" : "",
+        "description" : "",
+        "tags" : ["空調","冷氣"]
+    },
     "fudis" : {
         "title" : "FUDIS",
         "homepage" : "",
@@ -63,6 +191,14 @@
         "description" : "使用速乾界第一名的cool max科技材質，迅速排汗，遠離汗臭味",
         "tags" : ["吸濕排汗衫","運動貼身褲"]
     },
+    "glamor" : {
+        "title" : "GLAMOR 曼陀尼",
+        "homepage" : "",
+        "shop" : "",
+        "address" : "",
+        "description" : "",
+        "tags" : ["女鞋"]
+    },
     "gomyfood" : {
         "title" : "賣福食品工坊",
         "homepage" : "http://www.gomyfood.com/",
@@ -70,6 +206,22 @@
         "address" : "",
         "description" : "",
         "tags" : ["豬肉","香腸","麵茶"]
+    },
+    "heartone" : {
+        "title" : "一心鋼琴",
+        "homepage" : "http://www.heart-one.com.tw/",
+        "shop" : "",
+        "address" : "",
+        "description" : "",
+        "tags" : ["鋼琴","樂器"]
+    },
+    "isunsports" : {
+        "title" : "宜山",
+        "homepage" : "http://www.isunsports.com/",
+        "shop" : "",
+        "address" : "",
+        "description" : "",
+        "tags" : ["登山杖"]
     },
     "jingyang" : {
         "title" : "京揚",
@@ -87,6 +239,14 @@
         "description" : "",
         "tags" : ["收納盒","水壺","泡茶壺","隨行杯"]
     },
+    "justime" : {
+        "title" : "勝泰衛材",
+        "homepage" : "http://www.justime.com.tw/",
+        "shop" : "",
+        "address" : "",
+        "description" : "JUSTIME 巧時代",
+        "tags" : ["水龍頭","衛浴設備","臉盆","浴缸","馬桶"]
+    },
     "keyway" : {
         "title" : "聯府塑膠",
         "homepage" : "https://www.facebook.com/722783671111029",
@@ -94,6 +254,22 @@
         "address" : "",
         "description" : "",
         "tags" : ["塑膠製品","收納盒","水壺","整理箱"]
+    },
+    "labrisashoes" : {
+        "title" : "La Brisa Shoes",
+        "homepage" : "https://www.facebook.com/LaBrisaShoes/",
+        "shop" : "https://shopee.tw/labrisa.shoes",
+        "address" : "",
+        "description" : "",
+        "tags" : ["女鞋"]
+    },
+    "leeguitars" : {
+        "title" : "李吉他 Lee Guitars",
+        "homepage" : "http://tw.leeguitars.com/",
+        "shop" : "",
+        "address" : "",
+        "description" : "",
+        "tags" : ["樂器","吉他"]
     },
     "liangjiang" : {
         "title" : "良將",
@@ -127,6 +303,22 @@
         "description" : "",
         "tags" : ["女鞋","皮鞋"]
     },
+    "musiccity" : {
+        "title" : "Music City",
+        "homepage" : "http://www.musiccity.com.tw/",
+        "shop" : "",
+        "address" : "",
+        "description" : "",
+        "tags" : ["樂器","吉他","烏克麗麗","木箱鼓"]
+    },
+    "nagaguitars" : {
+        "title" : "Naga",
+        "homepage" : "http://www.nagaguitars.com/",
+        "shop" : "",
+        "address" : "",
+        "description" : "",
+        "tags" : ["樂器","吉他"]
+    },
     "neogreen" : {
         "title" : "可立潔",
         "homepage" : "http://www.neogreen.com.tw",
@@ -135,6 +327,22 @@
         "description" : "各大賣場也會鋪貨",
         "tags" : ["清潔用品","去霉去污","地板清潔劑","洗衣精","洗衣粉","洗衣乳"]
     },
+    "newbuffalo" : {
+        "title" : "牛頭牌 台灣鞋",
+        "homepage" : "http://www.newbuffalo.com.tw",
+        "shop" : "http://www.newbuffalo.com.tw/shop_all.php",
+        "address" : "",
+        "description" : "",
+        "tags" : ["涼鞋","拖鞋","運動鞋","帆布鞋","皮鞋"]
+    },
+    "nirey" : {
+        "title" : "耐銳 木子別作",
+        "homepage" : "http://www.nirey.com.tw/index.php",
+        "shop" : "",
+        "address" : "",
+        "description" : "耐銳製造廠有限公司，成立於1988年，為世界首創磨刀機專業製造廠，致力於生產研發磨刀機以及三層不鏽複合金鋼刀，堅持台灣製造，出口行銷世界超過20個國家，品質備受國際肯定。",
+        "tags" : ["廚房用刀","磨刀機"]
+    },
     "oliviabedding" : {
         "title" : "OLIVIA 日式簡約風格寢具專賣",
         "homepage" : "https://www.facebook.com/oliviabedding/",
@@ -142,6 +350,14 @@
         "address" : "",
         "description" : "",
         "tags" : ["寢具","床包","被套","枕頭","棉被"]
+    },
+    "oringoshoes" : {
+        "title" : "林果良品",
+        "homepage" : "http://www.oringoshoes.com/",
+        "shop" : "",
+        "address" : "",
+        "description" : "",
+        "tags" : ["皮鞋"]
     },
     "perfect" : {
         "title" : "Perfect 理想牌",
@@ -159,6 +375,14 @@
         "description" : "",
         "tags" : ["單車卡鞋","男鞋","女鞋"]
     },
+    "redant" : {
+        "title" : "紅螞蟻",
+        "homepage" : "",
+        "shop" : "https://tw.mall.yahoo.com/store/red-ant",
+        "address" : "",
+        "description" : "",
+        "tags" : ["男鞋","女鞋","帆船鞋","皮鞋","拖鞋","涼鞋"]
+    },
     "redennisWoods" : {
         "title" : "無事之森",
         "homepage" : "https://www.facebook.com/redennisWoods",
@@ -167,6 +391,46 @@
         "description" : "",
         "tags" : ["果醬"]
     },
+    "scona" : {
+        "title" : "SCONA 蘇格南皮鞋",
+        "homepage" : "http://www.scona.com.tw/",
+        "shop" : "",
+        "address" : "",
+        "description" : "",
+        "tags" : ["男鞋","女鞋","皮鞋","涼鞋"]
+    },
+    "shoesparty" : {
+        "title" : "Shoes Party 鞋靴派對 台灣手工客製女鞋品牌",
+        "homepage" : "http://www.shoesparty.com.tw/",
+        "shop" : "http://www.shoesparty.com.tw/?md=index&cl=product&at=productlist",
+        "address" : "",
+        "description" : "",
+        "tags" : ["女鞋"]
+    },
+    "shuter" : {
+        "title" : "樹德",
+        "homepage" : "http://www.shuter.com.tw/",
+        "shop" : "",
+        "address" : "",
+        "description" : "",
+        "tags" : ["文件櫃","收納箱","置物櫃","工作桌"]
+    },
+    "sika" : {
+        "title" : "Sika",
+        "homepage" : "http://www.sika-mit.com.tw/",
+        "shop" : "",
+        "address" : "",
+        "description" : "",
+        "tags" : ["皮件","皮包","皮夾"]
+    },
+    "snailshoes" : {
+        "title" : "SNAIL / GECKO STEP",
+        "homepage" : "http://www.snailshoes.com.tw/GoodList.aspx?bid=01&s2=1",
+        "shop" : "https://tw.mall.yahoo.com/store/snail.geckostep",
+        "address" : "",
+        "description" : "",
+        "tags" : ["男鞋","女鞋","涼鞋","雷根鞋","帆船鞋"]
+    },
     "snug" : {
         "title" : "sNug",
         "homepage" : "http://www.snug.com.tw/",
@@ -174,6 +438,22 @@
         "address" : "",
         "description" : "",
         "tags" : ["襪子","除臭襪"]
+    },
+    "sobdeall" : {
+        "title" : "SOBDEALL 沙伯迪澳",
+        "homepage" : "http://www.sobdeall.com.tw",
+        "shop" : "",
+        "address" : "",
+        "description" : "",
+        "tags" : ["皮件","皮包","皮夾"]
+    },
+    "sunhow" : {
+        "title" : "上豪家電",
+        "homepage" : "http://www.sunhow.tw/",
+        "shop" : "",
+        "address" : "",
+        "description" : "",
+        "tags" : ["電風扇","電暖器","電鍋","烤箱","熱水瓶","咖啡壺"]
     },
     "sunkung" : {
         "title" : "三光牌",
@@ -199,6 +479,22 @@
         "description" : "",
         "tags" : ["手工氣墊鞋","女鞋","皮鞋"]
     },
+    "tapfaucet" : {
+        "title" : "彰一興實業",
+        "homepage" : "http://www.tap-faucet.com/tw/",
+        "shop" : "",
+        "address" : "",
+        "description" : "",
+        "tags" : ["水龍頭","衛浴設備","浴缸"]
+    },
+    "tayakitchen" : {
+        "title" : "大雅廚具",
+        "homepage" : "http://www.tayakitchen.com.tw/",
+        "shop" : "",
+        "address" : "",
+        "description" : "",
+        "tags" : ["廚具"]
+    },
     "tiinlab" : {
         "title" : "TiinLab",
         "homepage" : "http://www.tiinlab.com.tw/",
@@ -223,6 +519,14 @@
         "description" : "",
         "tags" : ["拖把","洗衣袋","收納架","收納盒","抹布"]
     },
+    "veelah" : {
+        "title" : "Veelah Guitars",
+        "homepage" : "http://www.veelah.com.tw",
+        "shop" : "",
+        "address" : "",
+        "description" : "",
+        "tags" : ["樂器","吉他"]
+    },
     "vsmart" : {
         "title" : "V-Smart",
         "homepage" : "http://www.v-smart.com.tw/",
@@ -231,6 +535,14 @@
         "description" : "",
         "tags" : ["耳機"]
     },
+    "walden" : {
+        "title" : "Walden",
+        "homepage" : "https://www.facebook.com/WaldenGuitars/",
+        "shop" : "",
+        "address" : "",
+        "description" : "",
+        "tags" : ["樂器","吉他"]
+    },
     "wochyi" : {
         "title" : "多多毛巾",
         "homepage" : "http://www.wo-chyi.com.tw/",
@@ -238,6 +550,14 @@
         "address" : "",
         "description" : "",
         "tags" : ["毛巾","方巾","浴巾","浴袍"]
+    },
+    "yao88" : {
+        "title" : "九垚陶瓷刀",
+        "homepage" : "http://www.yao-88.com/",
+        "shop" : "",
+        "address" : "",
+        "description" : "",
+        "tags" : ["陶瓷刀"]
     },
     "yishuin" : {
         "title" : "亞晨",
@@ -254,6 +574,14 @@
         "address" : "台北市大同區迪化街一段288號",
         "description" : "<a href=\"http://kakakuksk.pixnet.net/blog/post/314867604\">店家介紹：【台北。迪化街】《永興農具工廠》~老街尋</a>",
         "tags" : ["鑄鐵鍋","鐵器","刀具","木製品","蒸籠","炊桶","台北市"]
+    },
+    "zobr" : {
+        "title" : "ZOBR 路豹",
+        "homepage" : "http://www.zobr.com.tw/",
+        "shop" : "",
+        "address" : "",
+        "description" : "",
+        "tags" : ["男鞋","女鞋","氣墊鞋","長靴","短靴"]
     },
 
 
