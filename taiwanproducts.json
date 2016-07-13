@@ -39,6 +39,14 @@
         "description" : "",
         "tags" : ["樂器","吉他袋"]
     },
+    "beochion" : {
+        "title" : "富雨洋傘",
+        "homepage" : "http://www.beo-chion.com/",
+        "shop" : "",
+        "address" : "",
+        "description" : "<a href=\"https://www.ptt.cc/bbs/TWproducts/M.1467311256.A.E71.html\">https://www.ptt.cc/bbs/TWproducts/M.1467311256.A.E71.html</a>",
+        "tags" : ["雨傘","直傘","摺疊傘"]
+    },
     "besttowel" : {
         "title" : "永鵬 Ma Maison 家飾織品",
         "homepage" : "http://www.best-towel.com.tw/",
@@ -46,6 +54,14 @@
         "address" : "",
         "description" : "",
         "tags" : ["毛巾","浴巾","浴袍","有機棉"]
+    },
+    "biocrown" : {
+        "title" : "百匡(良冠生化科技)",
+        "homepage" : "http://www.biocrown.com.tw/zh-TW/index.html",
+        "shop" : "",
+        "address" : "",
+        "description" : "<a href=\"https://www.ptt.cc/bbs/TWproducts/M.1467349343.A.51E.html\">https://www.ptt.cc/bbs/TWproducts/M.1467349343.A.51E.html</a>",
+        "tags" : ["面膜","手工皂"]
     },
     "brunii" : {
         "title" : "brunii 簡單穿好鞋",
@@ -215,6 +231,14 @@
         "description" : "",
         "tags" : ["豬肉","香腸","麵茶"]
     },
+    "grandcurtain" : {
+        "title" : "篁城竹簾",
+        "homepage" : "http://grand-curtain.com/",
+        "shop" : "",
+        "address" : "新竹縣竹東鎮仁愛路370巷31號",
+        "description" : "<a href=\"https://www.ptt.cc/bbs/TWproducts/M.1466870800.A.C7C.html\">https://www.ptt.cc/bbs/TWproducts/M.1466870800.A.C7C.html</a><br><a href=\"https://www.ptt.cc/bbs/TWproducts/M.1468139510.A.9AF.html\">https://www.ptt.cc/bbs/TWproducts/M.1468139510.A.9AF.html</a>",
+        "tags" : ["竹簾","竹蓆","餐具"]
+    },
     "heartone" : {
         "title" : "一心鋼琴",
         "homepage" : "http://www.heart-one.com.tw/",
@@ -295,6 +319,14 @@
         "description" : "由國寶級製鞋大師劉明龍創立，MIT 台灣製 『工廠直營高級手工皮鞋店』，首間店面創立於1967年 (民國56年)。",
         "tags" : ["手工鞋","皮鞋","男鞋","女鞋","紳士鞋","牛津鞋","雕花鞋"]
     },
+    "livelong" : {
+        "title" : "立龍",
+        "homepage" : "http://www.live-long330.com",
+        "shop" : "",
+        "address" : "",
+        "description" : "<a href=\"https://www.ptt.cc/bbs/TWproducts/M.1465184061.A.734.html\">https://www.ptt.cc/bbs/TWproducts/M.1465184061.A.734.html</a>",
+        "tags" : ["調理機"]
+    },
     "lovingfamily" : {
         "title" : "戀家小舖",
         "homepage" : "https://www.lovingfamily.com.tw/",
@@ -335,6 +367,14 @@
         "description" : "",
         "tags" : ["樂器","吉他"]
     },
+    "natureway" : {
+        "title" : "無染(洽維)",
+        "homepage" : "https://www.nature-way.com.tw/",
+        "shop" : "",
+        "address" : "",
+        "description" : "",
+        "tags" : ["毛巾","方巾","浴巾"]
+    },
     "neogreen" : {
         "title" : "可立潔",
         "homepage" : "http://www.neogreen.com.tw",
@@ -364,7 +404,7 @@
         "homepage" : "https://www.facebook.com/oliviabedding/",
         "shop" : "https://tw.bid.yahoo.com/tw/booth/Y3783558206",
         "address" : "",
-        "description" : "",
+        "description" : "<a href=\"https://www.ptt.cc/bbs/TWproducts/M.1467601602.A.FF4.html\">https://www.ptt.cc/bbs/TWproducts/M.1467601602.A.FF4.html</a>",
         "tags" : ["寢具","床包","被套","枕頭","棉被"]
     },
     "oringoshoes" : {
@@ -382,6 +422,14 @@
         "address" : "",
         "description" : "",
         "tags" : ["不鏽鋼","保溫杯","保溫瓶","鍋子"]
+    },
+    "polynia" : {
+        "title" : "Polynia 來自大地的溫潤",
+        "homepage" : "https://www.facebook.com/1603631726566988",
+        "shop" : "",
+        "address" : "",
+        "description" : "<a href=\"https://www.ptt.cc/bbs/TWproducts/M.1467792958.A.857.html\">https://www.ptt.cc/bbs/TWproducts/M.1467792958.A.857.html</a>",
+        "tags" : ["面膜"]
     },
     "puhu" : {
         "title" : "彪琥鞋業",
@@ -461,7 +509,7 @@
         "shop" : "http://www.snug.com.tw/",
         "address" : "",
         "description" : "",
-        "tags" : ["襪子","除臭襪"]
+        "tags" : ["襪子","除臭襪","防曬袖套"]
     },
     "sobdeall" : {
         "title" : "SOBDEALL 沙伯迪澳",
