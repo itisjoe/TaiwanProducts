@@ -95,6 +95,14 @@
         "description" : "",
         "tags" : ["帆布鞋"]
     },
+    "chironmage" : {
+        "title" : "CHIRON MAGE 台灣機能服飾",
+        "homepage" : "",
+        "shop" : "https://tw.bid.yahoo.com/tw/booth/Y3319510855",
+        "address" : "",
+        "description" : "",
+        "tags" : ["吸濕排汗衫","內褲","男性內褲"]
+    },
     "chordandmajor" : {
         "title" : "Chord&Major調性耳機",
         "homepage" : "http://tw.chord-m.com/",
@@ -214,6 +222,14 @@
         "address" : "",
         "description" : "使用速乾界第一名的cool max科技材質，迅速排汗，遠離汗臭味",
         "tags" : ["吸濕排汗衫","運動貼身褲"]
+    },
+    "fushing" : {
+        "title" : "福星內衣",
+        "homepage" : "",
+        "shop" : "https://tw.mall.yahoo.com/store/fushing",
+        "address" : "",
+        "description" : "<a href=\"http://www.pcstore.com.tw/fushing/\">PChome 商店街</a>",
+        "tags" : ["內衣","內褲","男性內褲"]
     },
     "glamor" : {
         "title" : "GLAMOR 曼陀尼",
@@ -494,6 +510,14 @@
         "address" : "",
         "description" : "",
         "tags" : ["男鞋","女鞋","皮鞋","涼鞋"]
+    },
+    "shianey" : {
+        "title" : "席艾妮 SHIANEY",
+        "homepage" : "",
+        "shop" : "https://tw.mall.yahoo.com/store/shianey",
+        "address" : "",
+        "description" : "",
+        "tags" : ["內褲","男性內褲"]
     },
     "shoesparty" : {
         "title" : "Shoes Party 鞋靴派對 台灣手工客製女鞋品牌",
